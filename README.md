@@ -31,4 +31,4 @@ Pictures and Icons might be
 
 ~~- [ ] Move the changelog file from Google Sites to Github~~
 
-- [ ] Compile a setup for the current version, aswell as make a portable version
+- [x] Create a Updater and a portable Zip file.
