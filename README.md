@@ -9,7 +9,7 @@ Well.. You might have heard of a phrase called "Backup everything". When you dev
 
 I have tried several Data recovery tools, and Decompilers, to get the source files back, but they all didn´t work.
 
-The only files I could recover where 8/50+ files, and they were all juust resources, a old version of the logo form, a Form and a DataSet.
+The only files I could recover where 12/50+ files, and they were all juust resources, a old version of the logo form, a Form and a DataSet.
 You can get them [here](/RecoveredFiles.zip) if you want.
 
 ## Info
