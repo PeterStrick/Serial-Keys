@@ -17,7 +17,9 @@ Serial Keys only works on Windows Vista and higher.
 
 It is written entirely in Visual Basic .Net
 
-You are free to use, modify or redistribute this application, aswell as use it for commercial and non-commercial use.
+You are free to use, modify or redistribute this application, aswell as use it for commercial and non-commercial use, only under two conditions.
+1. It has to be free obviously.
+2. Please credit me or my github page.
 
 If you have a question, just ask me either per [Email](mailto:anitastriclk@gmail.com) or write me a DM on [Twitter](https://twitter.com/peterstrick_acc)
 
