@@ -1,0 +1,7 @@
+Thank you for Installing Serial Keys!
+
+You are free to modify, change and download the source code at github.com/peterstrick/serial-keys
+
+This Software uses some Icons from the Microsoft® Windows® Operating System aswell as FreePik.
+
+Information: Some error messages and elements are in German. See my github page for translations.

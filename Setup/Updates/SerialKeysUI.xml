@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SerialKeysUI
+</name>
+</assembly>
+<members>
+<member name="T:SerialKeysUI.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.icon">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.internet_64px">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.key">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.key_share_64px">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.SampleDb">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die 
+
+             ******************OM COMPUTER POINT***********************
+
+
+                ****************HARDWARE &amp; SOFTWARE CENTER**********
+                    
+
+                     **********PRINT OUT, SCANING, PHOTOSHOP****
+                     
+                        
+                        *******ENGLISH &amp; HINDI TYPEING*******
+
+
+                          *****ALL TYPES OF OFFEST WORKS*** 
+
+    
+     All Serial key of Software............................. 
+
+
+Win98 Serial key : [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+</summary>
+</member>
+<member name="P:SerialKeysUI.My.Resources.Resources.SerialKeysLogo">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
