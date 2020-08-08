@@ -23,7 +23,7 @@ You are free to use, modify or redistribute this application, aswell as use it f
 
 If you have a question, just ask me either per [Email](mailto:anitastriclk@gmail.com) or write me a DM on [Twitter](https://twitter.com/peterstrick_acc)
 
-Pictures and Icons might be 
+Some Pictures and Icons are used from the Microsoft Windows Operating System, aswell as FreePik.
 
 ## To-Do
 - [x] Create a repository on Github
