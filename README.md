@@ -1,4 +1,4 @@
-# Serial-Keys
+# Serial Keys
 Store your Serial and Product Keys in one single application.
 
 ## What is Serial Keys?
