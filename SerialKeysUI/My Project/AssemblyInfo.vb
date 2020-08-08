@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Werte der Assemblyattribute überprüfen
 
 <Assembly: AssemblyTitle("SerialKeysUI")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("SerialKeysUI")>
-<Assembly: AssemblyCopyright("Copyright ©  2020")>
+<Assembly: AssemblyDescription("Serial Keys User Interface")>
+<Assembly: AssemblyCompany("Peters Software Solutions")>
+<Assembly: AssemblyProduct("Serial Keys User Interface")>
+<Assembly: AssemblyCopyright("Copyright ©  Peters Software Solutions")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' indem Sie "*" wie unten gezeigt eingeben:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("3.1.0.0")>
+<Assembly: AssemblyFileVersion("3.1.0.0")>
