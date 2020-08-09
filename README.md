@@ -33,4 +33,5 @@ Some Pictures and Icons are used from the Microsoft Windows Operating System, as
 
 ~~- [ ] Move the changelog file from Google Sites to Github~~
 
-- [x] Create a Updater and a portable Zip file.
+- [x] Create a Updater and a portable Zip file
+- [ ] Include encryption functionality
