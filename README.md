@@ -1,6 +1,10 @@
 # Serial Keys
 Store your Serial and Product Keys in one single application.
 
+| Downloads | Last Commit | Platform
+| :----------------: | :----------------: | :-------:
+| [![Total](https://img.shields.io/github/downloads/PeterStrick/Serial-Keys/total)](https://github.com/PeterStrick/Serial-Keys/releases/latest) | [![Last commit](https://img.shields.io/github/last-commit/PeterStrick/Serial-Keys)](https://github.com/PeterStrick/Serial-Keys) | [![Platform](https://img.shields.io/badge/platform-Windows%20x64-orange)](https://github.com/PeterStrick/Serial-Keys)
+
 ## What is Serial Keys?
 Serial Keys is a Application that I started to develop in mid 2019, it´s goal is to store all of your Serial and Product Keys from Old or Modern Software in one single application instead of a bunch of text files, emails or others.
 
